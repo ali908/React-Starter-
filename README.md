@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Basic JS  -->
 
 we Covered All Basic JavScript
@@ -38,3 +39,7 @@ React DOM Reconciliation
 Props in react (short cut key also)
 prop-types in react and why use prop-types
 Destructuring in Prop Types
+=======
+# React-Starter-
+this is React starter File 
+>>>>>>> 50a0c0fc515707d18ba33cc60b2a9bb59b95321f
